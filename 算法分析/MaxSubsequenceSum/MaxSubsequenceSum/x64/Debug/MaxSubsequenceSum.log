@@ -1,0 +1,5 @@
+﻿  MaxSubsequenceSum.cpp
+c:\users\fc\desktop\algorithm\算法分析\maxsubsequencesum\maxsubsequencesum\maxsubsequencesum.cpp(31): warning C4101: “k”: 未引用的局部变量
+c:\users\fc\desktop\algorithm\算法分析\maxsubsequencesum\maxsubsequencesum\maxsubsequencesum.cpp(53): warning C4101: “j”: 未引用的局部变量
+c:\users\fc\desktop\algorithm\算法分析\maxsubsequencesum\maxsubsequencesum\maxsubsequencesum.cpp(74): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  MaxSubsequenceSum.vcxproj -> C:\Users\fc\Desktop\algorithm\算法分析\MaxSubsequenceSum\x64\Debug\MaxSubsequenceSum.exe

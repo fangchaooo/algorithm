@@ -30,7 +30,7 @@ Position Find(List L, ElementType X){
 //insert (include head node)
 bool Insert(List L, ElementType X, Position P){
   Position tmp, pre;
-  for(pre = L; pre&&pre->Next!=P;pre= pre->Next)
+  for(pre = L; pre&&pre->Next!=P;pre=pre->Next)
   if (pre!==NULL) {
     printf("Insert Position ERROR\n" );
     return false;
